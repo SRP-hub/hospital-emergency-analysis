@@ -14,6 +14,10 @@ This project analyzes hospital patient data using SQL and Power BI.
 
 * 9,216 patient records
 
+## Dashboard Preview
+
+![Dashboard Overview](screenshot/dashboard_overview.png)
+
 ## Key Insights
 
 * Average patient wait time: 35.26 minutes
@@ -36,4 +40,4 @@ This project analyzes hospital patient data using SQL and Power BI.
 * data/ : Dataset
 * sql/ : SQL queries used for analysis
 * dashboard/ : Power BI dashboard file
-* screenshots/ : Dashboard screenshots
+* screenshot/ : Dashboard screenshots
